@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+[![Twitter Badge](https://img.shields.io/badge/-PJijin-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/PJijin/)](https://www.twitter.com/PJijin/) [![Github Badge](https://img.shields.io/badge/-PJijin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PJijin/)](https://www.github.com/PJijin/)
+
 - 🔭 I’m currently working on <a href="https://codekeep.io">@codekeep</a>, <a href="https://sendacoin.to">@sendacoin</a>
 - 👨‍💻 Stack: Javascript, NodeJS, ExpressJS, ReactJS, VueJS, GraphQL, Hasura, Prisma, PHP, Laravel
 - 📫 Twitter: <a href="https://twitter.com/PJijin">@PJijin</a>
