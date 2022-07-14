@@ -2,19 +2,28 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-PJijin-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/PJijin/)](https://www.twitter.com/PJijin/) [![Github Badge](https://img.shields.io/badge/-PJijin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PJijin/)](https://www.github.com/PJijin/)
 
-- 🔭 I’m currently working on <a href="https://codekeep.io">@codekeep</a>, <a href="https://sendacoin.to">@sendacoin</a>
+- 🔭 I’m currently working on <a href="https://hashmetrics.app">@hashmetrics</a>, <a href="https://codekeep.io">@codekeep</a>
 - 👨‍💻 Stack: Javascript, NodeJS, ExpressJS, ReactJS, VueJS, GraphQL, Hasura, Prisma, PHP, Laravel
 - 📫 Twitter: <a href="https://twitter.com/PJijin">@PJijin</a>
 
+#### Website 📂
+
+<a href="https://pjijin.vercel.app/">https://pjijin.vercel.app/</a>
+
 #### Projects 📂
 
-- <a href="https://sendacoin.to/">Sendacoin</a> : Easily create and share your public profile with a crypto currency address to receive payment.
+- <a href="https://hashmetrics.app/">HashMetrics</a> : Platform to track, analyze crypto transactions.
 
 - <a href="https://codekeep.io/">CodeKeep</a> : A Better Way to Organize , Share & Discover Snippets.
+
+- <a href="https://sendacoin.to/">Sendacoin</a> : Easily create and share your public profile with a crypto currency address to receive payment.
 
 
 
 #### Opensource 📖 
+
+- <a href="https://tailwind-to-css.vercel.app/">Tailwind to css converter</a> 
+
 - <a href="https://blogcover.now.sh/">BlogCover</a> : Cover image generator.
 
 - <a href="https://roadmap.vercel.app/">ShowPath</a> : Learning Path for Programmers.
