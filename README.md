@@ -2,13 +2,13 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-PJijin-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/PJijin/)](https://www.twitter.com/PJijin/) [![Github Badge](https://img.shields.io/badge/-PJijin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PJijin/)](https://www.github.com/PJijin/)
 
-- 🔭 I’m currently working on <a href="https://hashmetrics.app">@hashmetrics</a>, <a href="https://codekeep.io">@codekeep</a>
+- 🔭 I’m currently working on <a href="https://lootgo.app">@Loot-Go</a>
 - 👨‍💻 Stack: Javascript, NodeJS, ExpressJS, ReactJS, VueJS, GraphQL, Hasura, Prisma, PHP, Laravel
-- 📫 Twitter: <a href="https://twitter.com/PJijin">@PJijin</a>
+- 📫 Twitter: <a href="https://twitter.com/PJijin">@PJijin_</a>
 
 #### Website 📂
 
-<a href="https://pjijin.vercel.app/">https://pjijin.vercel.app/</a>
+<a href="https://jijin.dev">https://jijin.dev</a>
 
 #### Projects 📂
 
